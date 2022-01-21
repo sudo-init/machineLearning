@@ -1,9 +1,11 @@
 ## Ignore File ##
 
+# 파일
 *.csv
 *.zip
 *.whl
 
 
+# 폴더
 data/
-.ipynb_checkpoints/
+./.ipynb_checkpoints/
